@@ -53,12 +53,8 @@ public class MainActivity extends BaseActivity {
 
 	@Override
 	public void OnClick(View v) {
-		switch (v.getId()){
-			case R.id.main_button:
-				initCall();
-				break;
-			default:
-				break;
+		if(v.getId()== R.id.main_button){
+			initCall();
 		}
 	}
 
