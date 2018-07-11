@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ShareHomeSDK</string>
+    <string name="call_type">通话类型</string>
+    <string name="swtich_video">切换摄像头</string>
+    <string name="swtich_call">切换至语音</string>
+    <string name="negeren">拒接</string>
+    <string name="answer">接听</string>
+    <string name="mute">静音</string>
+    <string name="end_call">结束通话</string>
+    <string name="hands_free">免提</string>
+    <string name="call_time">00:00</string>
+    <string name="calltype">通话状态</string>
+    <string name="call_keyboard">拨号盘</string>
+</resources>
